@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container-fluid{
+    background: #092758;
+
+}
+.footer-box{
+    text-align: center;
+    color: white;
+    margin: 15px 0 0 0;
+}
+.icon-footer{
+    text-align: center;
+}
+.icon-footer a i{
+    padding: 20px;
+    margin: 0 auto;
+}
